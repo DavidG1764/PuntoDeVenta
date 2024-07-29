@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 align="center"> Punto de venta </h1>
+  <h1 align="center"> <b>Punto de venta</b> </h1>
   <br>
- <h2> Es un pequeño proyecto escolar, echo en menos de una semana, tiene 3 carpetas principales<h2>
+ <h3> Es un pequeño proyecto escolar, echo en menos de una semana, tiene 3 carpetas principales</h3>
   <div align="left">
   <ol type=I>
     <li>Gi (Interfaz Grafico)</li>
