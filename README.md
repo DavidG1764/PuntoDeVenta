@@ -16,6 +16,10 @@
       <li><p>Tiene el modelo para usarse al escribir, leer o modificar datos mediante los diferente procesos de la carpeta ya mencionada</p></li>
     </ul>
     <li>Proceso (Donde se pone la coneccion a las diferentes bases de datos)</li>
+    <ul>
+      <li><p>Tiene los procesos como la coneccion con el txt para abrirlo, leerlo, escribir y sobre escribir informacion, asi mismo al poder leerlo, es posible mandar 
+      a llamar informacion para insertarla en, tablas, labels o cualquier otra cosa, para poder poner el diseño que gustes</p></li>
+    </ul>
   </ol>
   </div>
 </div>
